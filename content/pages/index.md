@@ -1,5 +1,5 @@
 Title: Apps Repository
-URL: 
+URL: https://wh-repo.tinvn.eu.org/
 save_as: index.html
 status: hidden
 
@@ -7,6 +7,5 @@ Unofficial webOS application store
 
 ## [Browse Applications](/apps/)
 
-## [Get Homebrew Channel](/apps/org.webosbrew.hbchannel)
+## [Get ???](/apps/org.webosbrew.hbchannel)
 
-## [Submit Application](/submit)
