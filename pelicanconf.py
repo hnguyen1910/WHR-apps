@@ -7,8 +7,8 @@ import repogen
 from pelican.plugins import webassets
 import pelican.themes.webosbrew
 
-AUTHOR = 'webOS Homebrew Project'
-SITENAME = 'webOS Homebrew Project'
+AUTHOR = 'TinVN | webOS Homebrew Project'
+SITENAME = 'APP '
 SITEURL = ''
 
 THEME = 'webosbrew'
@@ -63,10 +63,7 @@ MENUITEMS = (
 )
 
 LINKS = (
-    ('Github Organization', 'https://github.com/webosbrew/'),
-    ('Join us on Discord', 'https://discord.gg/xWqRVEm'),
-    ('RootMy.TV', 'https://rootmy.tv/'),
-    ('openlgtv', 'https://openlgtv.github.io/'),
+    ('Credit','https://github.com/webosbrew/')
 )
 
 DEFAULT_PAGINATION = 20
