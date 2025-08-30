@@ -11,8 +11,8 @@ from webassets.cache import MemoryCache
 import repogen
 from repogen.siteurl import siteurl
 
-AUTHOR = 'webOS Homebrew Project'
-SITENAME = 'webOS Homebrew Project'
+AUTHOR = 'hnguyen1910'
+SITENAME = 'WHR-apps'
 SITEURL = siteurl() if os.environ.get('CI') else ''
 
 THEME = 'webosbrew'
@@ -67,14 +67,15 @@ LOAD_CONTENT_CACHE = False
 
 MENUITEMS = (
     ('Applications', '/apps'),
-    ('Submit', '/submit'),
+    # ('Submit', '/submit'),
 )
 
 LINKS = (
-    ('Github Organization', 'https://github.com/webosbrew/'),
-    ('Join us on Discord', 'https://discord.gg/xWqRVEm'),
-    ('RootMy.TV', 'https://rootmy.tv/'),
-    ('openlgtv', 'https://openlgtv.github.io/'),
+    # ('Github Organization', 'https://github.com/webosbrew/'),
+    # ('Join us on Discord', 'https://discord.gg/xWqRVEm'),
+    # ('RootMy.TV', 'https://rootmy.tv/'),
+    # ('openlgtv', 'https://openlgtv.github.io/'),
+    ('Github', 'https://github.com/hnguyen1910/WHR-apps'),
 )
 
 INDEX_APP_CATEGORIES = [
@@ -87,8 +88,8 @@ INDEX_APP_CATEGORIES = [
 
 # Following packages will have their IPKs downloaded and hosted on the site
 HOST_PACKAGES: set[str] = {
-    'org.webosbrew.hbchannel',
-    'org.webosbrew.safeupdate'
+    # 'org.webosbrew.hbchannel',
+    # 'org.webosbrew.safeupdate'
 }
 
 DEFAULT_PAGINATION = 20

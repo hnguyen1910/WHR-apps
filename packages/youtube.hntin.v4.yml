@@ -1,6 +1,6 @@
-title: YouTube AdFree
-iconUri: https://raw.githubusercontent.com/webosbrew/youtube-webos/main/assets/largeIcon.png
-manifestUrl: https://github.com/webosbrew/youtube-webos/releases/latest/download/youtube.leanback.v4.manifest.json
+title: YouTube AdFree (orginal logo)
+iconUri: https://raw.githubusercontent.com/hnguyen1910/youtube-webos/main/assets/largeIcon.png
+manifestUrl: https://github.com/hnguyen1910/youtube-webos/releases/latest/download/youtube.hntin.v4.manifest.json
 category: multimedia
 pool: main
 description: |
@@ -16,8 +16,8 @@ description: |
   **Note:** Configuration screen can be opened by pressing GREEN button on the remote.
 
   ## Screenshots
-  ![Configuration Screen](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true)
-  ![Segment Skipped](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true)
+  ![Configuration Screen](https://github.com/hnguyen1910/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true)
+  ![Segment Skipped](https://github.com/hnguyen1910/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true)
 
   ## Pre-requisites
   * Official YouTube app needs to be uninstalled before installation.
